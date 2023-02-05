@@ -1,2 +1,3 @@
 # discotheque-wpf
-A WPF application to manage music libraries. &lt;br /> By Gaston Maimbourg &amp; Lucas Seznec
+A WPF application to manage music libraries. <br /> 
+By Gaston Maimbourg &amp; Lucas Seznec
